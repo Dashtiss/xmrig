@@ -28,11 +28,11 @@ The preferred way to configure the miner is the [JSON config file](https://xmrig
 * In this repo I have disabled Donations so you can get the most profit
 
 ## Developers
-* Main Devs
+* ### Main Devs
 * **[xmrig](https://github.com/xmrig)**
 * **[sech1](https://github.com/SChernykh)**
-* Me who made some changes
-* **[Dashtiss](https://github.com/Dashtiss)
+* ### Me who made some changes
+* **[Dashtiss](https://github.com/Dashtiss)**
 
 ## Contacts
 * support@xmrig.com
