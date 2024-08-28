@@ -9,6 +9,8 @@
 
 XMRig is a high performance, open source, cross platform RandomX, KawPow, CryptoNight and [GhostRider](https://github.com/Dashtiss/xmrig/tree/master/src/crypto/ghostrider#readme) unified CPU/GPU miner and [RandomX benchmark](https://xmrig.com/benchmark). Official binaries are available for Windows, Linux, macOS and FreeBSD.
 
+This is a custom version of XMRig without donate and custom features that me and some friends are making.
+
 ## Mining backends
 - **CPU** (x86/x64/ARMv7/ARMv8)
 - **OpenCL** for AMD GPUs.
